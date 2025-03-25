@@ -1,1 +1,4 @@
+ HEAD
  these are the new changes.
+this is a conflicting change.
+>>>>>>> branch2
